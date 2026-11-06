@@ -18,8 +18,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.2/squared-0.4.2.tar.xz",
-          "sha256": "c3b328cfcf6d2f807370c61710e1c0e1579fe406f5a0e4f1421901f7a14c5d2d",
+          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.3/squared-0.4.3.tar.xz",
+          "sha256": "bfeca316ce24d32fbd7b2ea22bec7788670777861e65a803040f2676b51254f4",
           "x-checker-data": {
             "type": "json",
             "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/releases/permalink/latest",
@@ -31,7 +31,7 @@
         {
           "type": "file",
           "only-arches": ["x86_64"],
-          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.2/squared_x86_64",
+          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.3/squared_x86_64",
           "sha256": "d9f79ab89b5ae369aeed11c6052d402e8218cd503bf85b4a235f9c30c46a7c63",
           "dest-filename": "squared",
           "x-checker-data": {
@@ -44,8 +44,8 @@
         {
           "type": "file",
           "only-arches": ["x86_64"],
-          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.2/squared_x86_64.pck",
-          "sha256": "d057323912e13baa66ded30e7cafd0b74f5cf56fd140c6731aef21a2155bc0d1",
+          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.3/squared_x86_64.pck",
+          "sha256": "5624c105f968a86ea5e5852f015c3618ae4a422d063268800c5254be10e81336",
           "dest-filename": "squared.pck",
           "x-checker-data": {
             "type": "json",
@@ -57,7 +57,7 @@
         {
           "type": "file",
           "only-arches": ["aarch64"],
-          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.2/squared_aarch64",
+          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.3/squared_aarch64",
           "sha256": "f252aaad156ca8afd614ab463445c61b9d5b4daa85e058d77586c3284d300f00",
           "dest-filename": "squared",
           "x-checker-data": {
@@ -70,8 +70,8 @@
         {
           "type": "file",
           "only-arches": ["aarch64"],
-          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.2/squared_aarch64.pck",
-          "sha256": "d057323912e13baa66ded30e7cafd0b74f5cf56fd140c6731aef21a2155bc0d1",
+          "url": "https://gitlab.freedesktop.org/api/v4/projects/21436/packages/generic/squared/0.4.3/squared_aarch64.pck",
+          "sha256": "5624c105f968a86ea5e5852f015c3618ae4a422d063268800c5254be10e81336",
           "dest-filename": "squared.pck",
           "x-checker-data": {
             "type": "json",
